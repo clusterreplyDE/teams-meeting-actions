@@ -1,0 +1,15 @@
+.git*
+.venv/
+venv/
+local.settings.json
+tests/
+infra/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.example
+plan.md
+SETUP_GUIDE.md
+README.md
+bootstrap.bat

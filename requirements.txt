@@ -1,0 +1,5 @@
+azure-functions==1.21.3
+azure-ai-inference==1.0.0b9
+PyGithub==2.5.0
+pydantic==2.10.4
+webvtt-py==0.5.1

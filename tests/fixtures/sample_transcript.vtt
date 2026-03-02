@@ -1,0 +1,31 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.500
+<v Alice Johnson>Good morning everyone, let's get started with the sprint review.</v>
+
+00:00:03.500 --> 00:00:08.200
+<v Alice Johnson>We have three main topics today: the API migration, the dashboard redesign, and the Q2 roadmap.</v>
+
+00:00:08.200 --> 00:00:14.000
+<v Bob Smith>Thanks Alice. For the API migration, we've completed the authentication endpoints and the user management APIs.</v>
+
+00:00:14.000 --> 00:00:19.500
+<v Bob Smith>We still have the reporting endpoints left, which should take about two more sprints.</v>
+
+00:00:19.500 --> 00:00:25.000
+<v Carol Davis>On the dashboard side, the new design is ready for review. I'll share the Figma link after this meeting.</v>
+
+00:00:25.000 --> 00:00:31.000
+<v Alice Johnson>Great. Bob, can you create a task to track the remaining reporting endpoints?</v>
+
+00:00:31.000 --> 00:00:34.500
+<v Bob Smith>Sure, I'll have that done by end of day.</v>
+
+00:00:34.500 --> 00:00:40.000
+<v Carol Davis>One question - should we prioritize the mobile view or the desktop view for the dashboard?</v>
+
+00:00:40.000 --> 00:00:46.000
+<v Alice Johnson>Let's go with desktop first since that's what most of our users are on. Mobile can follow in the next sprint.</v>
+
+00:00:46.000 --> 00:00:50.000
+<v Alice Johnson>Alright, that wraps up our review. Thanks everyone!</v>
